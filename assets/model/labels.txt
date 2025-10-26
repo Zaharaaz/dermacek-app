@@ -1,0 +1,8 @@
+Eczema
+Tinea
+Psoriasis
+Vitiligo
+Acne
+Warts
+Candidiasis
+Unknown
